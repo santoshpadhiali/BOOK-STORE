@@ -1,0 +1,83 @@
+[
+    
+    {
+        "id":1,
+        "bookname":"story",
+        "titel":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "catagory":"free",
+        "price":0,
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1801976581.1735968835&semt=ais_hybrid"
+    },
+    {
+        "id":2,
+        "bookname":"Drama",
+        "titel":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "catagory":"drams",
+        "price":2000,
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1801976581.1735968835&semt=ais_hybrid"
+    },
+    {
+        "id":3,
+        "bookname":"Biography",
+        "titel":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "catagory":"bio",
+        "price":100,
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1801976581.1735968835&semt=ais_hybrid"
+    },
+    {
+        "id":4,
+        "bookname":"freedom fighters",
+        "titel":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "catagory":"fighter",
+        "price":50,
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1801976581.1735968835&semt=ais_hybrid"
+    },
+    {
+        "id":5,
+        "bookname":"Anime",
+        "titel":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "catagory":"catton",
+        "price":0,
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1801976581.1735968835&semt=ais_hybrid"
+    },
+    {
+        "id":6,
+        "bookname":"music",
+        "titel":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "catagory":"music",
+        "price":0,
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1801976581.1735968835&semt=ais_hybrid"
+    },
+    {
+        "id":7,
+        "bookname":"Food",
+        "titel":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "catagory":"Food",
+        "price":0,
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1801976581.1735968835&semt=ais_hybrid"
+    },
+    {
+        "id":9,
+        "bookname":"lab",
+        "titel":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "catagory":"free",
+        "price":0,
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1801976581.1735968835&semt=ais_hybrid"
+    },{
+        "id":10,
+        "bookname":"biggerner ",
+        "titel":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "catagory":"free",
+        "price":0,
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1801976581.1735968835&semt=ais_hybrid"
+    },
+    {
+        "id":11,
+        "bookname":"computer",
+        "titel":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "catagory":"free",
+        "price":0,
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1801976581.1735968835&semt=ais_hybrid"
+    }
+
+]
